@@ -1,0 +1,11 @@
+{
+  "name": "@ergatejs/strapi-provider-upload-oss",
+  "version": "1.0.4",
+  "description": "strapi-provider-upload with aliyun oss",
+  "main": "index.js",
+  "author": "Suyi <thonatos.yang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^6.16.0"
+  }
+}
